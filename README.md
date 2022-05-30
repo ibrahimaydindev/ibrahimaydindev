@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 
 <!--
 **ibrahimaydindev/ibrahimaydindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
