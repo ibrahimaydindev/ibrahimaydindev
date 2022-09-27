@@ -19,7 +19,7 @@
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 
-<a href="https://medium.com/@harundogdu" target="_blank">
+<a href="https://medium.com/@ibrahimaydindev" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@harundogdu">
 </a>
 <a href="https://www.linkedin.com/in/ibrahim-ayd%C4%B1n-289102212/" target="_blank">
