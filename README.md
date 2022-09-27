@@ -12,9 +12,9 @@
    <img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" />
    </div>
    <h3 align="center">My Stats:</h3>
-<a href="https://github.com/harundogdu">
+<a href="https://github.com/ibrahimaydindev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harundogdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harundogdu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibrahimaydindev&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
