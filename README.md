@@ -34,6 +34,5 @@
 <a href="https://ibrahimaydin.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Website-orange" alt="https://ibrahimaydindin.vercel.app/">
 </a>
-   
-;width: 217px !important;" ></a>
+   </a>
 </div>
