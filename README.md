@@ -9,7 +9,7 @@
    İbrahim Aydın | 💻 Android Developer | 🛸 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <div>
-   <img src="https://wakatime.com/badge/user/2336bc3f-f896-4a43-a4db-0db400873fb5.svg" />
+   <img src="https://wakatime.com/badge/user/ibrahimaydindev.svg" />
    </div>
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/ibrahimaydindev">
