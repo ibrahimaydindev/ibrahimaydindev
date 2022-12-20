@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ibrahim-ayd%C4%B1n-289102212/">
 </a>
 <a href="https://twitter.com/İbrahimAyd01" target="_blank">
-    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/harundogdu">
+    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/ibrahimAyd01">
 </a>
 <a href="mailto:ibrahimaydindev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ibrahimaydindev@gmail.com">
