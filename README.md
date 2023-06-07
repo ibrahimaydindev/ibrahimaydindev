@@ -14,6 +14,10 @@
    <div align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimaydindev&theme=ayu_mirage" alt="Profil Özeti Kartı">
    </div>
+   <div align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahimaydindev&theme=ayu_mirage" alt="Profil Özet Kartı">
+   </div>
+   
    
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 
