@@ -11,7 +11,9 @@
    <img src="https://wakatime.com/badge/user/477106b8-7784-438a-b1c9-bb2cc4fc052e.svg" />
    </div>
    <h3 align="center">My Stats:</h3>
+   <div
   ![kart](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimaydindev&theme=ayu_mirage)
+        </div>
    ### 🤝🏻 &nbsp;Connect with Me 🤝
 
 <a href="https://medium.com/@ibrahimaydindev" target="_blank">
