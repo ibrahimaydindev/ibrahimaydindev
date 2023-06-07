@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://ibrahimaydin.vercel.app">İbrahim</a></h1>
 </div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimaydindev&theme=default)
 
 <div align="center">
    <h3>
