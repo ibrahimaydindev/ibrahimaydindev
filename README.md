@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://ibrahimaydin.vercel.app">İbrahim</a></h1>
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimaydindev&theme=ayu_mirage)
+![profil özeti kartı](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimaydindev&theme=ayu_mirage)
 
 <div align="center">
    <h3>
