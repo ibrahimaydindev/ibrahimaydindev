@@ -16,6 +16,7 @@
    </div>
    <div align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahimaydindev&theme=ayu_mirage" alt="Profil Özet Kartı">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimaydindev&theme=ayu_mirage" alt="Profili Özet Kartı">
    </div>
    
    
