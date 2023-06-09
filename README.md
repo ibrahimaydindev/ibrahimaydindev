@@ -20,7 +20,7 @@
    </div>
    
    
-   ### 🤝🏻 &nbsp;Connect with Me 🤝
+   ### 🤝🏻 &nbsp; Connect with Me 🤝
 
    <a href="https://medium.com/@ibrahimaydindev" target="_blank">
       <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@ibrahimaydindev">
