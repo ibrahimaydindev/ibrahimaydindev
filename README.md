@@ -18,24 +18,4 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahimaydindev&theme=ayu_mirage" alt="Profil Özet Kartı">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimaydindev&theme=ayu_mirage" alt="Profili Özet Kartı">
    </div>
-   
-   
-   ### 🤝🏻 &nbsp; Connect with Me 🤝
-
-   <a href="https://medium.com/@ibrahimaydindev" target="_blank">
-      <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@ibrahimaydindev">
-   </a>
-   <a href="https://www.linkedin.com/in/ibrahim-ayd%C4%B1n-289102212/" target="_blank">
-      <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ibrahim-ayd%C4%B1n-289102212/">
-   </a>
-   <a href="https://twitter.com/İbrahimAyd01" target="_blank">
-      <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/ibrahimAyd01">
-   </a>
-   <a href="mailto:ibrahimaydindev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ibrahimaydindev@gmail.com">
-   </a>
-   <a href="https://ibrahimaydin.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/-Website-orange" alt="https://ibrahimaydin.vercel.app/">
-   </a>
 </div>
-.
